@@ -248,6 +248,9 @@ body,html{
         margin-top: 1%;
         font-size: 20px;
       }
+    .top{
+      margin-top:240px;
+    }
     .text_1{
       font-size: 1.4rem;
       font-weight: bold;
